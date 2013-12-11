@@ -1,4 +1,6 @@
 == README
+Url:
+http://asciicasts.com/episodes/409-active-model-serializers
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
